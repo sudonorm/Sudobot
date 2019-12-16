@@ -40,6 +40,7 @@ under the hood. To simply talk to the bot, you can remove this flag.
 
 `endpoints.yml` - contains configuration data for tracker store
 
+`models/` - folder into which trained model is stored
 
 ## :bulb: To use Rasa x:
 - A tracker store needs to be set up
