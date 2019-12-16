@@ -26,6 +26,21 @@ Note that this bot should be used with python 3.6 or higher.
 Note that `--debug` mode will produce a lot of output meant to help you understand how the bot is working 
 under the hood. To simply talk to the bot, you can remove this flag.
 
+## 👩‍💻 Overview of the files
+
+`data/stories.md` - contains stories 
+
+`data/nlu.md` - contains NLU training data
+
+`actions.py` - contains custom action/api code
+
+`domain.yml` - the domain file, including bot response templates
+
+`config.yml` - training configurations for the NLU pipeline and policy ensemble
+
+`endpoints.yml` - contains configuration data for tracker store
+
+
 ## :bulb: To use Rasa x:
 - A tracker store needs to be set up
 - Use `migrate_tracker_store_to_rasa_x.py` to migrate your tracker store to Rasa x
