@@ -1,0 +1,1 @@
+This is just a temporary file which enables the models folder be uploaded to the repo. After training the bot, your model will appear in this folder. A new model is created everytime you train the bot. 
