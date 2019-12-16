@@ -6,11 +6,12 @@ Currently, Sudobot can tell Chuck Norris jokes and describe the weather in any l
 
 ## 👷‍ Installation
 
-To install rasa and use this repo, run:
+To use the files in this repo, Rasa needs to be installed. Install Rasa by running:
 ```
 pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
 ```
-This will install all the libraries required by the bot.
+This will install both Rasa and Rasa X, as well as all the libraries required by the bot.
+
 Note that this bot should be used with python 3.6 or higher.
 
 ## 🤖 To run Sudobot:
