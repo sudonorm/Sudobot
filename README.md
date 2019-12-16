@@ -26,6 +26,6 @@ Note that this bot should be used with python 3.6 or higher.
 Note that `--debug` mode will produce a lot of output meant to help you understand how the bot is working 
 under the hood. To simply talk to the bot, you can remove this flag.
 
-## To use Rasa x:
+## :bulb: To use Rasa x:
 - A tracker store needs to be set up
 - Use `migrate_tracker_store_to_rasa_x.py` to migrate your tracker store to Rasa x
